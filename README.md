@@ -1,5 +1,5 @@
 # Spoti-WhatsApp-Integration
-Program written at the beginning of Year 11 (Original file created 18 ‎September ‎2023)  
+Program with development starting at the end of Year 10 (Original file created 11 ‎June ‎2023) and the main bulk being done at the beginning of Year 11 (September/November 2023)  
 The "whatsapp spotify presence.py" file is the original version of the program, which used Selenium's key and click sending functionality to emulate a user typing the status information.  
 Program written using the Selenium library and the Spotify API to update my WhatsApp status to my Spotify listening status in real time.  
 Selenium is used to create a headless chrome instance to interface the WhatsApp Web API.  
