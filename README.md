@@ -1,4 +1,5 @@
 # For St Andrews
+Please look at Spoti-WhatsApp-Integration.py and fetchsong.py, the other file is outdated  
 Programming languages used: Python  
 Program Function: Program written using the Selenium library and the Spotify API to update my WhatsApp status to my Spotify listening status in real time.  
 Selenium is used to create a headless chrome instance to interface the WhatsApp Web API.  
