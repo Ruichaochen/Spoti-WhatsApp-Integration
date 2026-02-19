@@ -15,6 +15,7 @@ Program written using the Selenium library and the Spotify API to update my What
 Selenium is used to create a headless chrome instance to interface the WhatsApp Web API.  
 Be warned that this program might break the WhatsApp ToS - I am not resposible if your account gets banned or you lose any data.  
 # Instructions
+Please note that as starting March 9th 2026 you will need a Spotify Premium subscription to be able to create a Spotify "app", which is required to use this program. This comes after Spotify's API changes, [article available here](https://developer.spotify.com/blog/2026-02-06-update-on-developer-access-and-platform-security).  
 The first time you run the program, do not run it in headless mode. You will need to be able to scan the QR code to authenticate WhatsApp Web. After you have done this, you will be able to run headless mode.  
 Example config.json file:
 ```
